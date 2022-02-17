@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! I'm Camila 👋
+
+👩‍💻##### Software Developer Back-end.
+💻##### Founder Montechit.
+🧙##### Founder & Writer @devisnotmagic.
 
 <!--
 **camihshm/camihshm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
