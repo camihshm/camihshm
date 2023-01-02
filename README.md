@@ -1,6 +1,6 @@
 ### Hello! I'm Camila 👋
 
-<p> 👩‍💻 Software Developer Back-end. </p>
+<p> 👩‍💻 Software Developer Back-end | Data Engineer. </p>
 <p> 💻Founder Montechit. </p>
 <p> 🧙Founder & Writer @devisnotmagic. </p>
 
